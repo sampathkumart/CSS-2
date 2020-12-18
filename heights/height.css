@@ -1,0 +1,11 @@
+.super {
+  margin-top: 3em;
+  display: flex;
+}
+
+.hi {
+  background: blueviolet;
+  margin: 0 1em;
+  padding: 3em 3em;
+  width: 70%;
+}
